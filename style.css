@@ -1,0 +1,36 @@
+body{
+    padding-left: 40px;
+    height: 40px;
+    width: 100;
+    background-image: url(c:/Users/jella/Downloads/z.jpg);
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+button{
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    bottom: none;
+    justify-content: space-between;
+
+}
+div{
+     height: 120px;
+     color: whitesmoke;
+     font-size: 30px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+h5{
+    color: white;
+    font-size: 20px;
+}
+.jella{
+    height: 120px;
+    width: 40px;
+}
